@@ -1,0 +1,27 @@
+// Immediately Invoked Function Expression (IIFE)
+
+
+(function chai(){
+    //named IIFE
+    console.log(`DB CONNECTED`);
+    
+})();
+
+( function aurcode() {
+    console.log(`DB CONNECTED TWO`);
+    
+} )();
+
+
+( () => {
+    console.log(`DB CONNECTED THREE`);
+    
+} )();
+
+
+( (name) => {
+    //simple IIFE
+    console.log(`DB CONNECTED THREE ${name}`);
+    
+} )('Abhishek')
+
