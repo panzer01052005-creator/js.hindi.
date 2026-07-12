@@ -73,3 +73,10 @@ function returnSecondvalue(getArray){
 }
 console.log(returnSecondvalue(MynewArray));
 console.log(returnSecondvalue([200,400,400,600,655]));
+
+function Abhishekk(name) {
+    console.log(`my name is ${name}`);
+    
+}
+
+Abhishekk(abhishek)
