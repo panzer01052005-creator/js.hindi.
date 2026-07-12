@@ -73,6 +73,3 @@ function returnSecondvalue(getArray){
 }
 console.log(returnSecondvalue(MynewArray));
 console.log(returnSecondvalue([200,400,400,600,655]));
-
-
-
