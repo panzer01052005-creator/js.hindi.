@@ -13,7 +13,7 @@ function three() {
 }
 
 
-one()
+console.log(one())
 two()
 three()
 
