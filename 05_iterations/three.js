@@ -37,7 +37,7 @@ for (const [key, value] of map) {
 }
 
 // const myObject = {
-//     'game1': 'NFS'
+//     'game1': 'NFS',
 //     'game2': "Spriderman"
 // }
 
